@@ -15,6 +15,15 @@
       <description>automation apple script test</description>
     </item>
     
+    <item>
+      <title>My 1st post</title>
+      <link>https:///ohana51.github.io/posts/sample/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https:///ohana51.github.io/posts/sample/</guid>
+      <description>이 파일 나중에 archtype 에 들어가기</description>
+    </item>
+    
     
   </channel>
 </rss>
