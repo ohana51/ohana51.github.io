@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>test_tag11 on ExampleSite</title>
-    <link>https://examplesite.com/tags/test_tag11/</link>
-    <description>Recent content in test_tag11 on ExampleSite</description>
-    <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>test_tag11 on ohana</title>
+    <link>https:///ohana51.github.io/tags/test_tag11/</link>
+    <description>Recent content in test_tag11 on ohana</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/test_tag11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https:///ohana51.github.io/tags/test_tag11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://examplesite.com/posts/sample/</link>
+      <link>https:///ohana51.github.io/posts/sample/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/sample/</guid>
+      <guid>https:///ohana51.github.io/posts/sample/</guid>
       <description>이 파일 나중에 archtype 에 들어가기</description>
     </item>
     
